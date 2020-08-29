@@ -1,1 +1,1 @@
-# -jsdelivr-cdn
+# jsdelivr-cdn
